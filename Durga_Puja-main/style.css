@@ -1,0 +1,475 @@
+@import url('https://fonts.googleapis.com/css2?family=Fuzzy+Bubbles&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alkalami&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@300;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bigshot+One&display=swap');
+
+.nav-link a{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 17px;
+}
+.navbar-brand{
+    font-family: 'Fuzzy Bubbles', cursive;
+}
+.Welcome{
+    font-family:'Fuzzy Bubbles', cursive;
+    font-size: 50px;
+    color:rgb(255, 191, 15);
+    text-shadow: 0 0 5px rgb(255, 0, 0);
+}
+.Welcome2{
+    font-family:'Fuzzy Bubbles', cursive;
+    font-size: 30px;
+    color:rgb(130, 255, 245);
+    text-shadow: 0 0 5px rgb(0, 0, 0);
+}
+.audiocenter{
+    padding-left: 58px;
+    padding-top: 5px;
+    background-color: moccasin;
+    height: 115px;
+}
+audio{
+    width: 90vw;
+    border-radius: 10px;
+    background: rgb(116, 116, 116);
+}
+#play{
+    font-size:24px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-left: 33vw;
+}
+body{
+    background-color: moccasin;
+}
+.fullbody{
+    font-family: 'Fuzzy Bubbles', cursive;
+}
+.fullbodyPlaces{
+    font-family: 'Fuzzy Bubbles', cursive;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.fullbodyPlaces img{
+    border-radius: 12px;
+    align-items: center;
+}
+.fullbodyHistory{
+    width: 100vw;
+    font-family: 'Fuzzy Bubbles', cursive;
+    padding-left: 100px;
+    padding-right: 100px;
+    text-align: center;
+}
+.historyImg{
+    border-radius: 40px;
+    border:3px dotted rgb(0, 0, 0);
+}
+.headings{
+    width: 100vw;
+    height: 50px;
+}
+.GillSans{
+    font-family: 'Alkalami', serif;
+    font-size: 35px;
+    text-align: center;
+    text-decoration: underline;
+}
+.GillSans2{
+    font-family: 'Alkalami', serif;
+    font-size: 25px;
+    text-decoration: underline;
+}
+.Location1{
+    width: 1200px;
+    background-color: rgb(115, 204, 255);
+    padding: 5px 150px 0 150px;
+    text-align: center;
+    border-radius: 20px;
+}
+.Location{
+    width: 1200px;
+    background-color: rgb(115, 204, 255);
+    padding: 5px 150px 0 150px;
+    text-align: center;
+    border-radius: 20px;
+
+}
+.Location2{
+    width: 420px;
+    padding-left: 15px;
+    border-radius: 15px;
+    margin-left: 70px;
+}
+.PlacePic{
+    border-radius: 15px;
+    height: 400px;
+    width: 89vw;
+    padding-left: 25vw;
+}
+.PlacePicSu{
+    border-radius: 15px;
+    height: 500px;
+    width: 89vw;
+    padding-left: 25vw;
+}
+.PlacePicBo{
+    border-radius: 15px;
+    height: 400px;
+    width: 89vw;
+    padding-left: 20vw;
+}
+.IntroPic{
+    float: left;
+    padding-left: 125px;
+    padding-top: 5px;
+}
+.Introduction{
+    width: 100vw;
+    height: 350px;
+}
+.IntroductionText{
+    text-align: center;
+    float: right;
+    width: 600px;
+    padding-right: 100px;
+    padding-top: 40px;
+}
+.secondpart{
+    width: 97vw;
+    height: 450px;
+}
+.secondpartText{
+    float: left;
+    width: 45vw;
+    text-align: center;
+    padding-top: 50px;
+    padding-left: 65px;
+}
+.secondpartImg{
+    float: right;
+    height: 400px;
+    width: 600px;
+    padding-right: 50px;
+}
+.DurgaDeviBirth{
+    width: 98vw;
+    height: 280px;
+    padding: 20px 60px 0 60px;
+    text-align: center;
+}
+.DeviBirth{
+    height: 360px;
+    padding: 10px 0 0 180px;
+}
+.DeviBirth img{
+    border-radius: 10px;
+}
+.DurgaDeviBirth2{
+    width: 98vw;
+    height: 430px;
+    padding: 20px 60px 0 60px;
+    text-align: center;
+    font-family: 'Fuzzy Bubbles', cursive;
+}
+.SubhaSaradia{
+    text-align: center;
+    width: 100vw;
+    font-size: 27px;
+    padding-top: 10px;
+}
+.picturesContainer{
+    height: 2250px;
+    width: 99vw;
+}
+.columnsPicture{
+    vertical-align: center;
+    height: 220px;
+    width: 99vw;
+}
+.picturesContainer img{
+    border-radius: 10px;
+    border: 3px solid rgb(0, 0, 0);
+}
+.Row1{
+    display: inline-flex;
+    height: 200px;
+    width: 400px;
+    margin-left: 30px;
+    padding-left: 20px;
+}
+.Row2{ 
+    display: inline-flex;
+    height: 200px;
+    width: 400px;
+    margin-left: 40px;
+    padding-left: 110px;
+}
+.Row3{   
+    display: inline-flex;
+    height: 200px;
+    width: 400px;
+    margin-left: 40px;
+    padding-left: 40px;
+}
+.Row4{
+    display: inline-flex;
+    height: 200px;
+    width: 400px;
+    margin-left: 30px;
+    padding-left: 38px;
+}
+.Row5{ 
+    display: inline-flex;
+    height: 200px;
+    width: 400px;
+    margin-left: 40px;
+    padding-left: 40px;
+}
+.Row6{   
+    display: inline-flex;
+    height: 200px;
+    width: 400px;
+    margin-left: 40px;
+    padding-left: 80px;
+}
+.Row7{
+    display: inline-flex;
+    height: 200px;
+    width: 400px;
+    margin-left: 30px;
+    padding-left: 58px;
+}
+.Row8{ 
+    display: inline-flex;
+    height: 200px;
+    width: 400px;
+    margin-left: 40px;
+    padding-left: 60px;
+}
+.Row9{   
+    display: inline-flex;
+    height: 200px;
+    width: 400px;
+    margin-left: 40px;
+    padding-left: 60px;
+}
+.Row10{
+    display: inline-flex;
+    height: 200px;
+    width: 400px;
+    margin-left: 30px;
+    padding-left: 55px;
+}
+.Row11{ 
+    display: inline-flex;
+    height: 200px;
+    width: 400px;
+    margin-left: 120px;
+    padding-left: 40px;
+}
+.Row12{   
+    display: inline-flex;
+    height: 200px;
+    width: 400px;
+    margin-left: 500px;
+}
+.Row13{
+    display: inline-flex;
+    height: 200px;
+    width: 400px;
+    margin-left: 30px;
+    padding-left: 20px;
+}
+.Row14{ 
+    display: inline-flex;
+    height: 200px;
+    width: 400px;
+    margin-left: 40px;
+    padding-left: 80px;
+}
+.Row15{   
+    display: inline-flex;
+    height: 200px;
+    width: 400px;
+    margin-left: 40px;
+    padding-left: 160px;
+}
+.Row16{
+    display: inline-flex;
+    height: 200px;
+    width: 400px;
+    margin-left: 30px;
+    padding-left: 120px;
+}
+.Row17{ 
+    display: inline-flex;
+    height: 200px;
+    width: 400px;
+    margin-left: 40px;
+    padding-left: 50px;
+}
+.Row18{   
+    display: inline-flex;
+    height: 200px;
+    width: 400px;
+    margin-left: 40px;
+    padding-left: 30px;
+}
+.Row19{
+    display: inline-flex;
+    height: 200px;
+    width: 400px;
+    margin-left: 30px;
+    padding-left: 70px;
+}
+.Row20{ 
+    display: inline-flex;
+    height: 200px;
+    width: 400px;
+    margin-left: 40px;
+    padding-left: 110px;
+}
+.Row21{   
+    display: inline-flex;
+    height: 200px;
+    width: 400px;
+    margin-left: 40px;
+    padding-left: 60px;
+}
+.Row22{
+    display: inline-flex;
+    height: 200px;
+    width: 400px;
+    margin-left: 30px;
+    padding-left: 60px;
+}
+.Row23{ 
+    display: inline-flex;
+    height: 200px;
+    width: 400px;
+    margin-left: 40px;
+    padding-left: 50px;
+}
+.Row24{   
+    display: inline-flex;
+    height: 200px;
+    width: 400px;
+    margin-left: 40px;
+    padding-left: 60px;
+}
+.Row25{
+    display: inline-flex;
+    height: 200px;
+    width: 400px;
+    margin-left: 30px;
+    padding-left: 50px;
+}
+.Row26{ 
+    display: inline-flex;
+    height: 200px;
+    width: 400px;
+    margin-left: 40px;
+    padding-left: 70px;
+}
+.Row27{   
+    display: inline-flex;
+    height: 200px;
+    width: 400px;
+    margin-left: 40px;
+    padding-left: 120px;
+}
+.Row28{
+    display: inline-flex;
+    height: 200px;
+    width: 400px;
+    margin-left: 30px;
+    padding-left: 50px;
+}
+.Row29{ 
+    display: inline-flex;
+    height: 200px;
+    width: 400px;
+    margin-left: 40px;
+    padding-left: 90px;
+}
+.Row30{   
+    display: inline-flex;
+    height: 200px;
+    width: 400px;
+    margin-left: 40px;
+    padding-left: 70px;
+}
+.ButtonHome a{
+    text-decoration: none;
+    color : azure;
+}
+.ButtonHome{
+    background-color: rgb(76, 215, 250);
+    height: 30px;
+    width: 60px;
+    border-radius: 6px;
+    text-align: center;
+    margin-left: 645px ;
+    cursor: pointer;
+}
+.headings4{
+    width: 85vw;
+    height: 50px;
+    font-size: 30px;
+    font-family: 'Alkalami', serif;
+    text-decoration: underline;
+}
+.headpart{
+    background-color: white;
+    width: 100vw;
+    height: 1000px;
+}
+.Details{
+    margin-top: 70px;
+    padding-left: 130px;
+    background-color: #fff;
+    width: 100vw;
+    height: 350px;
+    text-align: left;
+}
+.imagess{
+    float: Right;
+    padding-right: 250px;
+    padding-top: 10px;
+    border-radius: 150px;
+}
+.imgg{
+    border-radius: 200px;
+    border: 3px solid black;
+}
+.Details h1{
+    font-size: 50px;
+    font-family: 'Bigshot One', cursive;
+}
+.Details h2{
+    font-size: 35px;
+    font-family: 'Bigshot One', cursive;
+}
+.Details h3{
+    font-size: 25px;
+    font-family: 'Rajdhani', sans-serif;
+}
+.Details h4{
+    font-size: 12px;
+    color: royalblue;
+}
+.Details button{
+    height: 40px;
+    width: 120px;
+    background-color: rgb(157, 180, 248);
+    border: 2px dotted rgb(61, 61, 61);
+    border-radius: 25px;
+}
+#wp{
+    height: 40px;
+    width: 120px;
+    background-color: rgb(164, 245, 168);
+    border: 2px dotted rgb(61, 61, 61);
+    border-radius: 25px;
+}
+
